@@ -1,0 +1,9 @@
+{        
+  "InfraConfig" : {
+    "BuildProjectEnvironment" : "true",
+    "EnvironmentName" : null,
+    "StackName" : "infra-master-stack2",
+    "CFParameterFileName" : "infra-config/InfraParams.json",
+    "ProjectInfraCFTemplateS3URL" : "https://s3-ap-southeast-1.amazonaws.com/infra-master/InfraCFTemplateMaster.json"
+  }
+}
