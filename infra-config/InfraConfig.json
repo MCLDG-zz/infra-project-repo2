@@ -1,4 +1,4 @@
-{ 
+{   
   "InfraConfig" : {
     "BuildProjectEnvironment" : "true",
     "EnvironmentName" : null,
