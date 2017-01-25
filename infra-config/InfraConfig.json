@@ -1,6 +1,6 @@
 { 
   "InfraConfig" : {
-    "BuildProjectEnvironment" : "false",
+    "BuildProjectEnvironment" : "true",
     "EnvironmentName" : null,
     "StackName" : "infra-master-stack2",
     "CFParameterFileName" : "infra-config/InfraParams.json",
